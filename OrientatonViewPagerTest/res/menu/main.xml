@@ -1,0 +1,57 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.orientatonviewpagertest.MainActivity" >
+
+    <item
+        android:id="@+id/action_AccordionPageTransformer"
+        android:orderInCategory="100"
+        android:title="AccordionPageTransformer"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_CubeTransformer"
+        android:orderInCategory="100"
+        android:title="CubeTransformer"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_DepthPageTransformer"
+        android:orderInCategory="100"
+        android:title="DepthPageTransformer"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_FlipPageTransformer"
+        android:orderInCategory="100"
+        android:title="FlipPageTransformer"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_InRightDownTransformer"
+        android:orderInCategory="100"
+        android:title="InRightDownTransformer"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_InRightUpTransformer"
+        android:orderInCategory="100"
+        android:title="InRightUpTransformer"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_RotateTransformer"
+        android:orderInCategory="100"
+        android:title="RotateTransformer"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_RotationPageTransformer"
+        android:orderInCategory="100"
+        android:title="RotationPageTransformer"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_ScalePageTransformer"
+        android:orderInCategory="100"
+        android:title="ScalePageTransformer"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_ZoomOutPageTransformer"
+        android:orderInCategory="100"
+        android:title="ZoomOutPageTransformer"
+        app:showAsAction="never"/>
+
+</menu>
